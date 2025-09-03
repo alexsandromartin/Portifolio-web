@@ -32,12 +32,11 @@ Markdown
 
 ## 📂 Estrutura do Projeto
 
-A estrutura do repositório é organizada da seguinte forma:
-├── index.html
+.
 ├── img/
-|   ├── Captura%20de%20tela%202025-09-03%20121706.png
-│   ├── WhatsApp Image 2025-07-12 at 21.01.16 (1).jpeg
-│   └── WhatsApp Image 2025-07-12 at 21.01.17.jpeg
+│   ├── minha_foto.jpeg
+│   └── foto_trabalho.jpeg
+├── index.html
 └── README.md
 
 ---
