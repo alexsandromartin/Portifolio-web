@@ -28,6 +28,7 @@ O projeto foi construído com uma abordagem **frontend-first**, utilizando as se
 -   **Ícones SVG**: Utilizados para ícones nas seções de experiência e contato, garantindo leveza e escalabilidade.
 
 ---
+Markdown
 
 ## 📂 Estrutura do Projeto
 
