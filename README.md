@@ -33,11 +33,9 @@ Markdown
 ## 📂 Estrutura do Projeto
 
 .
-├── img/
-│   ├── minha_foto.jpeg
-│   └── foto_trabalho.jpeg
-├── index.html
-└── README.md
+├── img/                  # Pasta para armazenar as imagens do portfólio
+├── index.html            # O arquivo principal do site
+└── README.md             # Este documento
 
 ---
 
